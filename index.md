@@ -13,3 +13,8 @@ var myVar = "Hello, world!";
 ``` python
 print("Hello, beautiful people!")
 ```
+
+Task List
+- [x] Become active on Github
+- [ ] Start working on personal projects
+- [ ] Start looking for an Internship/ Work
