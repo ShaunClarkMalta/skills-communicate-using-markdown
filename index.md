@@ -4,8 +4,12 @@
 
 ###### All the way down to H6
 
+---
+## Images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+---
+## CodeBlocks
 ``` javascript
 var myVar = "Hello, world!";
 ```
@@ -14,6 +18,8 @@ var myVar = "Hello, world!";
 print("Hello, beautiful people!")
 ```
 
+---
+## Task Lists
 Task List
 - [x] Become active on Github
 - [ ] Start working on personal projects
